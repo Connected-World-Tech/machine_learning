@@ -1,0 +1,7 @@
+{
+    "idf.espIdfPathWin": "d:\\machineL\\machine_learning\\esp-idf",
+    "idf.toolsPathWin": "d:\\machineL\\esp32-tools",
+    "idf.pythonBinPathWin": "d:\\machineL\\esp32-tools\\python_env\\idf4.3_py3.8_env\\Scripts\\python.exe",
+    "idf.customExtraPaths": "d:\\machineL\\esp32-tools\\python_env\\idf4.3_py3.8_env\\Scripts;D:\\Install\\python\\python3;d:\\machineL\\esp32-tools\\tools\\xtensa-esp32-elf\\esp-2020r3-8.4.0\\xtensa-esp32-elf\\bin;d:\\machineL\\esp32-tools\\tools\\xtensa-esp32s2-elf\\esp-2020r3-8.4.0\\xtensa-esp32s2-elf\\bin;d:\\machineL\\esp32-tools\\tools\\xtensa-esp32s3-elf\\esp-2020r3-8.4.0\\xtensa-esp32s3-elf\\bin;d:\\machineL\\esp32-tools\\tools\\esp32ulp-elf\\2.28.51-esp-20191205\\esp32ulp-elf-binutils\\bin;d:\\machineL\\esp32-tools\\tools\\esp32s2ulp-elf\\2.28.51-esp-20191205\\esp32s2ulp-elf-binutils\\bin;d:\\machineL\\esp32-tools\\tools\\cmake\\3.16.4\\bin;d:\\machineL\\esp32-tools\\tools\\openocd-esp32\\v0.10.0-esp32-20200709\\openocd-esp32\\bin;d:\\machineL\\esp32-tools\\tools\\ninja\\1.10.0;d:\\machineL\\esp32-tools\\tools\\idf-exe\\1.0.1;d:\\machineL\\esp32-tools\\tools\\ccache\\3.7;d:\\machineL\\esp32-tools\\tools\\dfu-util\\0.9\\dfu-util-0.9-win64",
+    "idf.customExtraVars": "{\"OPENOCD_SCRIPTS\":\"d:\\\\machineL\\\\esp32-tools\\\\tools\\\\openocd-esp32\\\\v0.10.0-esp32-20200709/openocd-esp32/share/openocd/scripts\",\"IDF_CCACHE_ENABLE\":\"1\"}"
+}

@@ -1,0 +1,19 @@
+[submodule "EdgeML"]
+	path = EdgeML
+	url = https://github.com/microsoft/EdgeML.git
+[submodule "tensorflow"]
+	path = tensorflow
+	url = https://github.com/tensorflow/tensorflow.git
+[submodule "esp-idf"]
+	path = esp-idf
+	url = https://github.com/espressif/esp-idf.git
+	branch = v4.2-beta1
+
+
+	
+[submodule "edge-impulse/tflite-find-arena-size"]
+	path = edge-impulse/tflite-find-arena-size
+	url = https://github.com/Connected-World-Tech/tflite-find-arena-size.git
+[submodule "edge-impulse/edge-impulse-ingestion-sdk-c"]
+	path = edge-impulse/edge-impulse-ingestion-sdk-c
+	url = https://github.com/Connected-World-Tech/edge-impulse-ingestion-sdk-c
