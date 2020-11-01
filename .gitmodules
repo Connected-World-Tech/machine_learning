@@ -14,12 +14,12 @@
 [submodule "edge-impulse/tflite-find-arena-size"]
 	path = edge-impulse/tflite-find-arena-size
 	url = https://github.com/Connected-World-Tech/tflite-find-arena-size.git
-[submodule "edge-impulse/edge-impulse-ingestion-sdk-c"]
-	path = edge-impulse/edge-impulse-ingestion-sdk-c
-	url = https://github.com/Connected-World-Tech/esp32-edge-impulse-ingestion-sdk-c
 [submodule "templates/esp32/esp-idf-generic-cmake/components/tfmicro/gemmlowp"]
 	path = templates/esp32/esp-idf-generic-cmake/components/tfmicro/gemmlowp
 	url = https://github.com/google/gemmlowp
 [submodule "templates/esp32/esp-idf-generic-cmake/components/tfmicro/flatbuffers"]
 	path = templates/esp32/esp-idf-generic-cmake/components/tfmicro/flatbuffers
 	url = https://github.com/google/flatbuffers.git
+[submodule "edge-impulse/components/edge-impulse-ingestion-sdk-c"]
+	path = edge-impulse/components/edge-impulse-ingestion-sdk-c
+	url = https://github.com/Connected-World-Tech/esp32-edge-impulse-ingestion-sdk-c
